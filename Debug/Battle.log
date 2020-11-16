@@ -1,0 +1,10 @@
+﻿  Battle.c
+C:\Users\a\source\repos\Battle\Battle\Battle.c(18,9): warning C4129: '<': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\a\source\repos\Battle\Battle\Battle.c(41,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\a\source\repos\Battle\Battle\Battle.c(44,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\a\source\repos\Battle\Battle\Battle.c(47,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\a\source\repos\Battle\Battle\Battle.c(61,1): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\a\source\repos\Battle\Battle\Battle.c(64,1): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\a\source\repos\Battle\Battle\Battle.c(130,1): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\a\source\repos\Battle\Battle\Battle.c(139,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Battle.vcxproj -> C:\Users\a\source\repos\Battle\Debug\Battle.exe
